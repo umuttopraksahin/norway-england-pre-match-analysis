@@ -94,3 +94,13 @@ England is expected to control possession, while Norway has stronger individual 
 Prediction:
 
 **Norway 1-2 England**
+## Analysis Visualizations
+
+### Goals Conceded Comparison
+![Goals Conceded Comparison](reports/figures/goals_conceded_comparison.png)
+
+### Player Goal Contributions
+![Player Goal Contributions](reports/figures/player_goal_contributions.png)
+
+### Shooting Comparison
+![Shooting Comparison](reports/figures/shooting_comparison.png)
