@@ -23,8 +23,8 @@ Competition:
 - FIFA World Cup 2026 Qualification Europe
 
 Teams:
-- Norway 🇳🇴
-- England 🏴
+- Norway (NOR)
+- England (ENG)
 
 Matches analyzed:
 - Norway: 8
