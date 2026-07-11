@@ -1,6 +1,6 @@
 # Norway vs England - Pre Match Analysis
 
-A pre-match football data analysis project for the FIFA World Cup 2026 Quarter-final between Norway and England.
+A pre-match football data analysis project analyzing Norway vs England ahead of their FIFA World Cup 2026 Quarter-final match.
 
 ## Objectives
 
