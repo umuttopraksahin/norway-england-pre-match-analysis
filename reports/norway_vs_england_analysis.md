@@ -18,31 +18,79 @@
 
 
 
-\### Norway
+\### Norway 🇳🇴
 
 \- Matches: 8
 
 \- Wins: 8
 
-\- Goals: 37
+\- Goals For: 37
 
-\- Goals conceded: 5
+\- Goals Against: 5
 
-\- Goal difference: +32
+\- Goal Difference: +32
 
 
 
-\### England
+\### England 🏴
 
 \- Matches: 8
 
 \- Wins: 8
 
-\- Goals: 22
+\- Goals For: 22
 
-\- Goals conceded: 0
+\- Goals Against: 0
 
-\- Goal difference: +22
+\- Goal Difference: +22
+
+
+
+
+
+\## Attacking Comparison
+
+
+
+\### Total Shots
+
+
+
+| Team | Total Shots | Shots on Goal | Inside Box Shots |
+
+|---|---:|---:|---:|
+
+| Norway | 155 | 61 | 121 |
+
+| England | 151 | 63 | 102 |
+
+
+
+Norway creates more dangerous positions inside the box, while England has slightly better shot accuracy.
+
+
+
+
+
+\## Possession \& Passing
+
+
+
+| Team | Possession | Pass Accuracy |
+
+|---|---:|---:|
+
+| Norway | 57.5% | 89.2% |
+
+| England | 74.4% | 92.0% |
+
+
+
+England controls possession and passing volume.
+
+Norway plays a more direct and efficient attacking style.
+
+
 
 
 
@@ -52,11 +100,13 @@
 
 \### Norway Key Players
 
-\- Erling Haaland: 16 goals, 2 assists
+\- Erling Haaland: 16 goals, 2 assists, 18 goal contributions
+
+\- Martin Ødegaard: 1 goal, 7 assists, 27 key passes, 8.68 rating
 
 \- Alexander Sørloth: 5 goals, 2 assists
 
-\- Martin Ødegaard: 7 assists, 27 key passes
+
 
 
 
@@ -66,31 +116,65 @@
 
 \- Declan Rice: 1 goal, 4 assists
 
-\- Bukayo? (not included in dataset)
+\- Jude Bellingham: 1 assist
 
 
 
-\## Match Simulation
+
+
+\## Tactical Analysis
+
+
+
+Norway:
+
+\- Strong finishing ability
+
+\- Haaland focused attacking threat
+
+\- Effective transition attacks
+
+
+
+England:
+
+\- High possession control
+
+\- Strong defensive structure
+
+\- Better passing volume
+
+
+
+
+
+\## Match Prediction
+
+
+
+England is expected to dominate possession.
+
+
+
+Norway has the stronger individual attacking threat with Haaland and Ødegaard.
 
 
 
 Prediction:
 
-Norway 1.7 - 1.3 England
+
+
+Norway 1-2 England
 
 
 
-Win probability:
 
-\- Norway: 42%
 
-\- Draw: 28%
-
-\- England: 30%
+\## Conclusion
 
 
 
-Conclusion:
+Norway has the more explosive attack, while England has the more balanced team structure.
 
-Norway has stronger attacking output, while England has a stronger defensive structure.
+The match is expected to be decided by Norway's finishing quality against England's control of the game.
 
