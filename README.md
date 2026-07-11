@@ -42,14 +42,14 @@ Matches analyzed:
 
 ## Player Highlights
 
-### Norway 🇳🇴
+## Norway (NOR)
 
 - Erling Haaland: 16 goals, 2 assists
 - Martin Ødegaard: 7 assists, 27 key passes
 - Alexander Sørloth: 5 goals, 2 assists
 
 
-### England 🏴
+## England (ENG)
 
 - Harry Kane: 8 goals
 - Declan Rice: 1 goal, 4 assists
